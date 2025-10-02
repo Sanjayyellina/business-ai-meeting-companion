@@ -26,14 +26,13 @@ Audio Processing: ffmpeg
 
 
 ##  Project Structure
-├── simple_llm.py              # Test script for Watson summarization
-├── simple_speech2text.py      # Test script for Whisper transcription
-├── speech2text_app.py         # Gradio application combining STT + Summarization
-├── downloaded_audio.mp3       # Sample audio for testing
-├── requirements.txt           # Project dependencies
-└── README.md                  # Documentation
 
----
+├── simple_llm.py              
+├── simple_speech2text.py      
+├── speech2text_app.py         
+├── downloaded_audio.mp3       
+├── requirements.txt           
+└── README.md                 
 
 ##Getting Started
 1️⃣ Clone the repository
